@@ -1,0 +1,22 @@
+p{
+  font-family: arial;
+  margin-top: 0px;
+}
+.pb{
+  font-size: 32px;
+  margin-bottom: 6px;
+}
+.b1{
+  color: rgb(96, 96, 96);
+  font-size: 16px;
+}
+.pb1{
+  color: green;
+  font-size: 16px;
+}
+.pb2{
+  color: rgb(96, 96, 96);
+}
+.b2{
+  color: red;
+}

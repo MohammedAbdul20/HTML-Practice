@@ -1,0 +1,16 @@
+.img-po{
+  width: 193px;
+  vertical-align: middle;
+  margin-left: 78px;
+  margin-bottom: 12px;
+}
+.long-ass_bar{
+  width: 360px;
+  padding-left: 8px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 180px;
+  border: none;
+  box-shadow:3px 3px 10px rgba(0, 0, 0, 0.15) ;
+  display: block; 
+}

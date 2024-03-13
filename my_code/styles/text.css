@@ -1,0 +1,43 @@
+p{
+  font-family: Roboto;
+  margin-top: 0px;
+}
+.Title{
+  font-weight: bold;
+  font-size: 18px;
+  width: 300px;
+  line-height: 24px;
+  margin-bottom: 4px;
+}
+.video-des{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 16px;
+  
+}
+.video-ow{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+}
+.desc{
+  color: rgb(96, 96, 96);
+  font-size: 14px;
+  width: 280px;
+  line-height:22px ;
+  margin-bottom: 100px;
+}
+.apple-text{
+  margin-bottom: 50px;
+  font-size: 14px;
+  text-align: center;
+  color: white;
+  background-color: rgb(227, 65, 64);
+  padding-top:18px ;
+  padding-bottom: 18px;
+}
+.shop-link{
+  cursor: pointer;
+}
+.shop-link:hover{
+  text-decoration: underline;
+}
